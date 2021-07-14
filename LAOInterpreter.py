@@ -1,3 +1,10 @@
+"""
+--------------------------------------------
+LAO Language Interpreter 
+Created by Justin De La Cruz
+
+"""
+
 from sly import Lexer
 from sly import Parser
 
